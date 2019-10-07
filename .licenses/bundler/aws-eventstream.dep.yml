@@ -1,0 +1,9 @@
+---
+name: aws-eventstream
+version: 1.0.3
+type: bundler
+summary: AWS Event Stream Library
+homepage: https://github.com/aws/aws-sdk-ruby
+license: apache-2.0
+licenses: []
+notices: []

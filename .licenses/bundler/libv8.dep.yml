@@ -1,0 +1,9 @@
+---
+name: libv8
+version: 7.3.492.27.1
+type: bundler
+summary: Distribution of the V8 JavaScript engine
+homepage: http://github.com/cowboyd/libv8
+license: mit
+licenses: []
+notices: []

@@ -1,0 +1,9 @@
+---
+name: paper_trail
+version: 10.3.1
+type: bundler
+summary: Track changes to your models.
+homepage: https://github.com/paper-trail-gem/paper_trail
+license: mit
+licenses: []
+notices: []

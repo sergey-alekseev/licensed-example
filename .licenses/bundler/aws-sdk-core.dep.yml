@@ -1,0 +1,9 @@
+---
+name: aws-sdk-core
+version: 3.68.1
+type: bundler
+summary: AWS SDK for Ruby - Core
+homepage: https://github.com/aws/aws-sdk-ruby
+license: apache-2.0
+licenses: []
+notices: []
