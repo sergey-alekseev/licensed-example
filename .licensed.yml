@@ -1,0 +1,10 @@
+sources:
+  bundler: true
+
+# Dependencies with these licenses are allowed by default.
+allowed:
+  - mit
+  - apache-2.0
+  - bsd-2-clause
+  - bsd-3-clause
+  - cc0-1.0
